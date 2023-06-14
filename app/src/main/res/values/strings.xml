@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">NewsProject</string>
+    <string name="app_name">MaterialNewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="profile">Profile</string>
+    <string name="date">Monday, 10 May 2023</string>
+    <string name="title">WHO classifies triple-mutant covid variant from India as global health risk</string>
+    <string name="description">A World Health Organization official said Monday it is\n reclassifying the highly contagious triple-mutant Covid\n variant spreading in India as a “variant of concern,”\n indicating that it’s become a...Read More</string>
+    <string name="publishedAt">Published by Berkeley Lovelace jr.</string>
 </resources>
